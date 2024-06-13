@@ -1,0 +1,25 @@
+Created Git hub Repository
+Created Project environment : its help to install project library file 
+        - command : conda create -p venv python==3.8 -y 
+        - command for activation : conda activate venv/
+
+git command 
+echo "# ML-Ops-ML-Project-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/shelarumesh/ML-Ops-ML-Project-.git
+git push -u origin main
+
+Add .gitignore file in git and add python as programing lang. 
+
+git pull --- add .ignore file in local machine where code is building
+
+
+
+Setup and requirement 
+
+there are many project in pipy python library 
+
+
