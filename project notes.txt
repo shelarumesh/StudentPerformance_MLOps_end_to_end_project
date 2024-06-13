@@ -23,3 +23,11 @@ Setup and requirement
 there are many project in pipy python library 
 
 
+
+add Componantss
+- data ingection
+- data transformation'
+- model trainer
+
+# Piprline
+
